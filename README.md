@@ -17,5 +17,5 @@ It uses the open Trivia Database to get the questions https://opentdb.com/api_co
 ## Requirements
 - Requires requests module
 
-### Usage
+## Usage
 - Run main.py to start the program
